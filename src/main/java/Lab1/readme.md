@@ -16,3 +16,10 @@ It demonstrates basic Git version control workflows using IntelliJ IDEA and GitH
 - IntelliJ IDEA Community Edition
 - Git & GitHub
 
+## IntelliJ Project Screenshot
+
+<!-- Replace the path below with your actual image filename after uploading it to the repo -->
+![IntelliJ Project Overview](project.png)
+
+> The screenshot above shows the Project tool window (with `.idea` and `src` trees expanded),  
+> the `myLibrary.java` editor, and the Git Log with at least three commits.
